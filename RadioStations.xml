@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RadioStations>
+
+    <RadioStation
+        Name="Kiss FM"
+        URL="https://live.kissfm.ro/kissfm.aacp"
+        LogoURL="https://i.imgur.com/kissfm.png"
+        />
+
+    <RadioStation
+        Name="Radio Cafe"
+        URL="https://live.radiocafe.ro:8443/"
+        LogoURL="https://i.imgur.com/magicfm.png"
+        />
+
+    <RadioStation
+        Name="Magic FM"
+        URL=" https://live.magicfm.ro/magicfm.aacp"
+        LogoURL="https://i.imgur.com/rockfm.png"
+        />
+
+    <RadioStation
+        Name="Radio ZU"
+        URL="http://zuicast.digitalag.ro:9420/zu"
+        LogoURL="https://i.imgur.com/radiozu.png"
+        />
+
+    <RadioStation
+        Name="RTI"
+        URL="https://online.webcastradio.ro/rti"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		 <RadioStation
+        Name="Europa  FM"
+        URL="https://astreaming.edi.ro:8443/EuropaFM_aac"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		 <RadioStation
+        Name="Magic 80"
+        URL="https://live.kissfm.ro/Magic-80s"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		 <RadioStation
+        Name="Party Mix"
+        URL="https://live.kissfm.ro/magic.party.mix"
+        LogoURL="https://i.imgur.com/europafm.png"
+		/>
+		
+		 <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		  <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		  <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		  <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		  <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		  <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		  <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+		 
+		  <RadioStation
+        Name="DIGI FM"
+        URL=" https://edge76.rcs-rds.ro/digifm/digifm.mp3"
+        LogoURL="https://i.imgur.com/europafm.png"
+         />
+
+</RadioStations>
+
