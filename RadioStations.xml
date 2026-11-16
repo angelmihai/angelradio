@@ -15,14 +15,14 @@
 
     <RadioStation
         Name="Magic FM"
-        URL=" https://cdn-profiles.tunein.com/s54795/images/logoq.jpg?t=5"
-        LogoURL="https://i.imgur.com/rockfm.png"
+        URL="https://live.magicfm.ro/magicfm.aacp"
+        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg?t=5"
         />
 
     <RadioStation
         Name="Radio ZU"
         URL="http://zuicast.digitalag.ro:9420/zu"
-        LogoURL="https://upload.wikimedia.org/wikipedia/ro/d/d4/Zulogo.jpg?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=original"
+        LogoURL="https://upload.wikimedia.org/wikipedia/ro/d/d4/Zulogo.jpg"
         />
 
     <RadioStation
