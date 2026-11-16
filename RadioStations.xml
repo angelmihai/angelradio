@@ -16,7 +16,7 @@
     <RadioStation
         Name="Magic FM"
         URL="https://live.magicfm.ro/magicfm.aacp"
-        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg?t=5"
+        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
         />
 
     <RadioStation
@@ -28,25 +28,25 @@
     <RadioStation
         Name="RTI"
         URL="https://online.webcastradio.ro/rti"
-        LogoURL="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1gN72dZXmPJ6jNZepkVljx_0UVqo8nTx52G0NCv1hRfwWvMureuCh-IG&s=10"
+        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
          />
 		 
 		 <RadioStation
         Name="Europa  FM"
         URL="https://astreaming.edi.ro:8443/EuropaFM_aac"
-        LogoURL="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_Europa_FM_2018.png?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=original"
+        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
          />
 		 
 		 <RadioStation
         Name="Magic 80"
         URL="https://live.kissfm.ro/Magic-80s"
-        LogoURL="https://api.magicfm.ro/resized/streams/2024/04/19/magic-80s-hits-1e54d0_663a0daa2427fb8374951086d4b03106.jpg"
+        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
          />
 		 
 		 <RadioStation
         Name="Party Mix"
         URL="https://live.kissfm.ro/magic.party.mix"
-        LogoURL="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWAuWW85uWLqcvTg6qIX52hH_m8zcey6U5qlOhIOuUg&s"
+        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
 		/>
 		
 		 <RadioStation
