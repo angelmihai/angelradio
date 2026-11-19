@@ -33,8 +33,8 @@
 		 
 	<RadioStation
         Name="Europa  FM"
-        URL="https://astreaming.edi.ro:8443/EuropaFM_aac"
-        LogoURL="https://www.europafm.ro/wp-content/uploads/2020/04/Europa-FM-Logo-Rosu-Pe-aceeasi-frecventa-cu-tine.png"
+        URL="https://media-ssl.musicradio.com/Gold"
+        LogoURL="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8442f33c24bc58b17646cb28bc"
          />
 		 
 		 <RadioStation
