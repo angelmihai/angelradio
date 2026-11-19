@@ -26,19 +26,19 @@
         />
 
     <RadioStation
-        Name="RTII"
+        Name="RTI"
         URL="https://online.webcastradio.ro/rti"
         LogoURL="https://thumbs.dreamstime.com/b/radio-logo-radio-icon-simple-vector-radio-logo-radio-icon-simple-vector-white-background-124841132.jpg"
 		 />
 		 
 	<RadioStation
-        Name="Europa  FM"
+        Name="Radio Gold UK"
         URL="https://media-ssl.musicradio.com/Gold"
         LogoURL="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8442f33c24bc58b17646cb28bc"
          />
 		 
 		 <RadioStation
-        Name="Gold Radio"
+        Name="Magic 80"
         URL="https://live.kissfm.ro/Magic-80s"
         LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
          />
