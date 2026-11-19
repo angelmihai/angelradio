@@ -26,12 +26,12 @@
         />
 
     <RadioStation
-        Name="RTI"
+        Name="RTII"
         URL="https://online.webcastradio.ro/rti"
         LogoURL="https://thumbs.dreamstime.com/b/radio-logo-radio-icon-simple-vector-radio-logo-radio-icon-simple-vector-white-background-124841132.jpg"
-         />
+		 />
 		 
-		 <RadioStation
+	<RadioStation
         Name="Europa  FM"
         URL="https://astreaming.edi.ro:8443/EuropaFM_aac"
         LogoURL="https://www.europafm.ro/wp-content/uploads/2020/04/Europa-FM-Logo-Rosu-Pe-aceeasi-frecventa-cu-tine.png"
