@@ -28,13 +28,13 @@
     <RadioStation
         Name="RTI"
         URL="https://online.webcastradio.ro/rti"
-        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
+        LogoURL="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXFOUGnERHFNAd2sTzPAtYuAJrKi9680kR7wT0tdaMUI8BJOrJ99vA9U&s=10"
          />
 		 
 		 <RadioStation
         Name="Europa  FM"
         URL="https://astreaming.edi.ro:8443/EuropaFM_aac"
-        LogoURL="https://cdn-profiles.tunein.com/s54795/images/logoq.jpg"
+        LogoURL="https://www.europafm.ro/wp-content/uploads/2020/04/Europa-FM-Logo-Rosu-Pe-aceeasi-frecventa-cu-tine.png"
          />
 		 
 		 <RadioStation
@@ -44,9 +44,9 @@
          />
 		 
 		 <RadioStation
-        Name="Radio Paradise"
-        URL="https://stream.radioparadise.com/aac-320"
-        LogoURL="https://cdn.aptoide.com/imgs/6/1/4/614c8ff27eb6ad13f6680e2952880c1c_fgraphic.png"
+        Name="Radio Nostalgia"
+        URL="https://live.radionostalgia.ro:8443/nostalgia.aac"
+        LogoURL="https://static.tildacdn.net/tila6637-3938-4334-b563-363435346435/logo-radio.png"
 		/>
 		
 		 <RadioStation
